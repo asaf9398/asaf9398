@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @asaf9398
-- 👀 I’m interested in .NET & Web Development 
 - 🌱 I’m currently studing my B.Sc in Computer Science 
 - 🐱‍👤 I’m looking for a new challenge - 
-      I know to develop in several languages: Python, C, C++, C#, Java
+      I know to develop in several languages: C, C#, Java, Python
 - 📫 How to reach me ? 
     Just send me an email asaf9398@gmail.com
 
