@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asaf
 - 🌱 I’m currently studing my B.Sc in Computer Science 
-- 🐱‍👤 I’m looking for a new challenge - 
-      I'm programming in several languages: C, C#, Java, Python, HTML, Auto Hot Key
+- 🐱‍👤 I’m looking for a new challenge 
+- I'm programming in several languages: C, C#, Java, Python, HTML, Auto Hot Key
 - 📫 How to reach me ? 
     Just send me an email asaf9398@gmail.com
 
