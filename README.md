@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asaf9398
+- 👋 Hi, I’m Asaf
 - 🌱 I’m currently studing my B.Sc in Computer Science 
 - 🐱‍👤 I’m looking for a new challenge - 
       I'm programming in several languages: C, C#, Java, Python, HTML, Auto Hot Key
